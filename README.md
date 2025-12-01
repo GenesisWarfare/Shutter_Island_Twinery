@@ -29,5 +29,6 @@ Your choices shape the investigation and reveal hidden truths about the island a
 ## Authors
 
 Raphael Coeffic
+
 Yanai Levy
 
