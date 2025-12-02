@@ -17,7 +17,7 @@ Your choices shape the investigation and reveal hidden truths about the island a
 
 ## Tool Used
 
- **Twine 2** used to write and link the interactive passages  
+ **Twine** used to write and link the interactive passages  
 
 ## Features
 
