@@ -6,7 +6,7 @@ Your choices shape the investigation and reveal hidden truths about the island a
 
 ## How to Play
 
-- Download the HTML file from this repository.  
+- Play in this link [Itch.io Link](https://genesiswarfare.itch.io/shutter-island) or download the HTML file from this repository.  
 - Open it in your web browser (Chrome, Firefox, Edge, etc.).  
 - Click the interactive links to make choices.  
 - Explore different paths to discover multiple story outcomes.
